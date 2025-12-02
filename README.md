@@ -5,7 +5,7 @@
 
 ## - OBJETIVO DO PROJETO
 
-  Desenvolver um Sistema Desktop com o propósito de auxiliar na administração operacional da Empresa, promovendo a otimização do armazenamento de dados e a geração de relatórios gerenciais que possibilitem um controle mais eficaz sobre os processos financeiros. O sistema será responsável pelo registro e gerenciamento das informações cadastrais de clientes, funcionários, produtos e distribuidores, bem como pelo armazenamento de orçamentos solicitados em determinado período e das vendas efetivamente realizadas. A proposta visa contribuir para a melhoria da organização, da tomada de decisões e da eficiência operacional da empresa.
+ Desenvolver um sistema desktop destinado a apoiar a gestão operacional da empresa, por meio da otimização do armazenamento de informações e da geração de relatórios gerenciais que favoreçam um controle mais eficiente dos processos financeiros. O sistema permitirá o registro e o gerenciamento estruturado dos dados de clientes, funcionários, produtos, distribuidores, orçamentos emitidos e vendas realizadas. A iniciativa tem como finalidade aprimorar a organização interna, apoiar a tomada de decisões e elevar a eficiência operacional da Serralheria União.
 
 ## - DESCRIÇÃO DOS USUÁRIOS
 
@@ -21,8 +21,10 @@
 
 # NESCESSIDADES APRESENTADAS 
 	
- Foi feita uma pesquisa interna nos setores da empresa entrevistando o Proprietário e seus funcionários, para entender os procedimentos aplicados em todos os departamentos da empresa, tendo início no atendimento ao cliente, passando pelos  orçamentos, compra de matéria prima, montagem de esquadrias e por último instalação. 
-	A partir desta pesquisa foi possível filtrar as necessidades da empresa e elaborar um plano de ação para o desenvolvimento de um Banco de Dados Relacional que se qualifique em atender as necessidades do Cliente simplificando o armazenamento de dados que vão gerar relatórios que darão um panorama geral do funcionamento da empresa, tanto na parte administrativa, como na parte de serviços e principalmente na área financeira.
+ 	Foi realizada uma pesquisa interna nos diversos setores da empresa, envolvendo entrevistas com o proprietário e colaboradores, com o objetivo de compreender os procedimentos aplicados em todas as etapas do fluxo de trabalho — desde o atendimento ao cliente, passando pela elaboração de orçamentos, aquisição de matéria-prima e montagem de esquadrias, até a instalação final. Complementarmente, foram aplicados formulários digitais por meio da plataforma Google Forms, a fim de ampliar a coleta de dados e obter uma visão mais precisa sobre as necessidades operacionais.
+ 
+	Com base nas informações levantadas, foi possível identificar as principais demandas da empresa e estruturar um plano de ação para o desenvolvimento de um sistema desktop que atenda adequadamente às expectativas do cliente. O sistema proposto visa simplificar o armazenamento de dados, viabilizar a geração de relatórios gerenciais e proporcionar uma visão abrangente do funcionamento da empresa, abrangendo os setores administrativo, operacional e, sobretudo, financeiro.
+
 
 ##	FUNCIONALIDADES PREVISTAS	
 
